@@ -1,8 +1,6 @@
-# actup-Computer-Literacy
+# Einleitung
 
-Ein Minikurs für den Einstieg in die ZHAW LSFM. 
-
-Du möchtest an der ZHAW LSFM studieren. Für das Studium bei uns brauchst Du einen ausreichend leistungsfähigen Laptop und verfügst über Grundkenntnisse im Umgang mit einem Laptop, dem MS-Office-Packet u.s.w.?
+Der Kurs Computer Literacy erleichtert den Einstieg in das Studium an der ZHAW LSFM. Denn für das Studium bei der ZHAW LSFM brauchst Du einen ausreichend leistungsfähigen Laptop. Du verfügst ebenfalls über die Grundkenntnisse im Umgang mit einem Laptop, dem MS-Office-Packet u.s.w.
 
 Dieser Kurs zeigt Dir auf, was wir als relevant für einen guten Einsteig ins Studium erachten.
 Der Kurs enthält Videos, Einzel- und Gruppenübungen und genügend Zeit für kursbezogene Diskussionen. Die Gestaltung der Kurse stammt von Studenten höherer Semesters. Die Studenten erhalten so die bestmögliche Information und ein tolles Coaching aus erster Hand. 
